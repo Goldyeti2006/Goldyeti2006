@@ -1,5 +1,5 @@
 <div align="center">
-  <H1>Hi 👋, I'm Golyeti</H1>
+  <H1>Hi 👋, I'm Goldyeti</H1>
   <h3>A passionate software developer from India</h3>
   
   <!-- Social Badges -->
