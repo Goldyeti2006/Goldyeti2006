@@ -1,6 +1,6 @@
 <div align="center">
-  <H1>Hi 👋, I'm [Your Name]</H1>
-  <h3>A passionate software developer from [Your Country]</h3>
+  <H1>Hi 👋, I'm Golyeti</H1>
+  <h3>A passionate software developer from India</h3>
   
   <!-- Social Badges -->
   <a href="https://linkedin.com/in/your-username">
