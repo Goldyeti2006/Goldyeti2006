@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+a+Goldyeti+Full+Stack+Developer;An+Open+Source+Enthusiast;And+a+Passionate+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=I'm+Goldyeti+a+Full+Stack+Developer;An+Open+Source+Enthusiast;And+a+Passionate+Learner" alt="Typing SVG" />
 </p>
 <!--
 **Goldyeti2006/Goldyeti2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
