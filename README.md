@@ -3,11 +3,8 @@
   <h3>A passionate software developer from India</h3>
   
   <!-- Social Badges -->
-  <a href="https://linkedin.com/in/your-username">
+  <a href="[https://linkedin.com/in/sharanprakashrkasbag](https://www.linkedin.com/in/sharanprakashrkasbag)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-username">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
 </div>
 <p align="center">
